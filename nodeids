@@ -1,0 +1,4 @@
+[
+  "backend/tests/test_comments.py::test_comment_crud_flow",
+  "backend/tests/test_comments.py::test_create_comment_on_missing_task_returns_404"
+]
